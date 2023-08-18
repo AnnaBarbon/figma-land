@@ -1,0 +1,6 @@
+.links-list_place_menu{
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
