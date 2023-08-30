@@ -48,3 +48,8 @@
 @import url(../blocks/contents/__card/_elements/contents__card_elements_macbook.css);
 @import url(../blocks/contents/__card/_elements/contents__card_elements_boards.css);
 @import url(../blocks/button-try-free/_margin/button-try-free_margin_top.css);
+@import url(../blocks/partners/partners.css);
+@import url(../blocks/partners/__content/partners__content.css);
+@import url(../blocks/partners/__list/partners__list.css);
+@import url(../blocks/partners/__item/partners__item.css);
+@import url(../blocks/partners/__icon/partners__icon.css);
