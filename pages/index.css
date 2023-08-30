@@ -37,3 +37,14 @@
 @import url(../blocks/features/__title/_content-before/features__title_content-before_cutlery.css);
 @import url(../blocks/features/__title/_content-before/features__title_content-before_aliens.css);
 @import url(../blocks/features/__title/_content-before/features__title_content-before_infinity.css);
+@import url(../blocks/contents/contents.css);
+@import url(../blocks/contents/__content/contents__content.css);
+@import url(../blocks/contents/__card/contents__card.css);
+@import url(../blocks/contents/__title/contents__title.css);
+@import url(../blocks/contents/__paragraph/contents__paragraph.css);
+@import url(../blocks/button-try-free/_size/button-try-free_size_small.css);
+@import url(../blocks/contents/__image-macbook/contents__image-macbook.css);
+@import url(../blocks/contents/__image-boards/contents__image-boards.css);
+@import url(../blocks/contents/__card/_elements/contents__card_elements_macbook.css);
+@import url(../blocks/contents/__card/_elements/contents__card_elements_boards.css);
+@import url(../blocks/button-try-free/_margin/button-try-free_margin_top.css);
