@@ -56,6 +56,13 @@
 @import url(../blocks/partners/__list/partners__list.css);
 @import url(../blocks/partners/__item/partners__item.css);
 @import url(../blocks/partners/__icon/partners__icon.css);
+@import url(../blocks/comments/comments.css);
+@import url(../blocks/comments/__content/comments__content.css);
+@import url(../blocks/comments/__item/comments__item.css);
+@import url(../blocks/comments/__description/comments__description.css);
+@import url(../blocks/comments/__author/comments__author.css);
+@import url(../blocks/comments/__author-text/comments__author-text.css);
+@import url(../blocks/comments/__text/comments__text.css);
 @import url(../blocks/advertisement/advertisement.css);
 @import url(../blocks/advertisement/__content/advertisement__content.css);
 @import url(../blocks/advertisement/__title/advertisement__title.css);
